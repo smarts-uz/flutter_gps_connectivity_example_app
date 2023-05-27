@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
         ),
         body: Center(
           child: Text(
-            "Gps is $isOn",
+            "GPS is $isOn",
             style: const TextStyle(fontSize: 24.0),
           ),
         ),
